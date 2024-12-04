@@ -21,6 +21,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
     - [Privacy in Egocentric Videos](#Privacy-in-Egocentric-Videos)
     - [Multiple Egocentric Tasks](#Multiple-Egocentric-Tasks)
     - [Task Understanding](#Task-Understanding)
+    - [Ego-Exo Object Correspondence](#Ego-Exo-Object-Correspondence)
     - [Miscellaneous (New Tasks)](#Miscellaneous-New-Tasks)
 
     > Clustered according to the conferences.
@@ -314,6 +315,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [AssistQ: Affordance-centric Question-driven Task Completion for Egocentric Assistant](https://arxiv.org/pdf/2203.04203.pdf) - Benita Wong, Joya Chen, You Wu, Stan Weixian Lei, Dongxing Mao, Difei Gao, Mike Zheng Shou. In ECCV 2022. [[project page]](https://showlab.github.io/assistq/) [[code]](https://github.com/showlab/Q2A)
 
+###  Ego-Exo Object Correspondence
+- [ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Videos](https://arxiv.org/abs/2411.19083) - Yuqian Fu, Runze Wang, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool. arxiv preprint. 
 
 ### Miscellaneous (New Tasks)
 - [EgoGen: An Egocentric Synthetic Data Generator](https://arxiv.org/pdf/2401.08739) -  Gen Li, Kaifeng Zhao, Siwei Zhang, Xiaozhong Lyu, Mihai Dusmanu, Yan Zhang, Marc Pollefeys, and Siyu Tang. In CVPR 2024. [[project page]](https://ego-gen.github.io/)
